@@ -8,7 +8,7 @@ void data_processing(const char *filename, const unsigned int im_height, const u
 {
 	FILE *file_in, *file_out;
 	
-	int i;
+	unsigned int i;
 	unsigned int r,g,b;
 	unsigned char x1,x2;
 
